@@ -3,7 +3,7 @@
 
 ### Задание 1
 
-![alt text](https://github.com/Svalker1989/hw-02/blob/main/Z2%202%20hosts.PNG)
+![alt text](https://github.com/Svalker1989/hw-02/blob/main/Z1%20auth.PNG)
 ## Текст использованных команд github
 ### git clone https://github.com/Svalker1989/hw-02.git
 ### git commit -a -m "commit1"
